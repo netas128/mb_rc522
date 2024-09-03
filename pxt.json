@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "pxt-mfrc522": "github:joy-it/pxt-rfid-mfrc522#1.0.1"
     },
     "files": [
         "main.blocks",
